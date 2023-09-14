@@ -7,8 +7,14 @@
 ### 만들고자 하는 페이지 ( 대략 )
 
 ### home
-<img width="343" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/76ddd1ff-ceca-4fb7-a885-2cba1c84074a">
+<img width="340" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/5ecd1aa4-584e-4c16-a0eb-4ccd807a9648">
 
-### 게시물
 
-<img width="371" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/8db1a128-37d2-478e-a866-64a0bc305bf9">
+### 게시물 열람
+
+<img width="333" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/85048ef1-39e2-4015-a83c-c8728b57868c">
+
+
+### 게시물 작성
+
+<img width="357" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/a983a425-d8e6-48ce-9764-816546cd3cd8">
