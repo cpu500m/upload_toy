@@ -39,3 +39,7 @@
 
 #### message랑 validation을 적용하고 저장소도 메모리가 아닌 DB에 저장하는 방식이었으면 좀 더 재밌었을거 같음.. 시간은 훨씬 더 걸렸겠지만
 
+### 그래서! 그것들을 적용해 나가는 방식으로 진행해볼 예정
+
+#### (1) validation과 message 적용 : [vaidation_toy](https://github.com/cpu500m/validation_toy)
+
