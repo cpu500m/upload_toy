@@ -18,3 +18,24 @@
 ### 게시물 작성
 
 <img width="357" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/a983a425-d8e6-48ce-9764-816546cd3cd8">
+
+# ____ 결과 ____
+
+### 홈 화면
+<img width="441" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/dab35c75-e6e1-4595-afbe-29b940cd5631">
+
+### 게시물 등록 화면
+<img width="363" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/a6019c83-b8f9-4360-8747-8728d4a185dc">
+
+### 게시물 열람
+<img width="314" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/553909f1-4e2f-4184-a76e-70ad93ec8ccc">
+
+### 첨부파일 다운로드 + 서버 저장소 상황
+<img width="705" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/542e3860-5763-43fd-8b51-405dbb34c18d">
+<img width="442" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/b0266c02-a948-49ba-90d2-543db169f08b">
+
+
+## 후기
+
+#### message랑 validation을 적용하고 저장소도 메모리가 아닌 DB에 저장하는 방식이었으면 좀 더 재밌었을거 같음.. 시간은 훨씬 더 걸렸겠지만
+
