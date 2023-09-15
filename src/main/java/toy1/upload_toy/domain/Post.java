@@ -15,4 +15,12 @@ public class Post {
     private String title;
     private String writer;
 
+    protected Post(){}
+
+    public static Post createPost(String title ,String writer) {
+        Post post = new Post();
+        post.title = title;
+        post.writer = writer;
+        return post;
+    }
 }

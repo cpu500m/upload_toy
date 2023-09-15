@@ -29,8 +29,8 @@
             </thead>
             <tbody>
             <tr th:each="post : ${posts}">
-                <td><a href="post.html" th:href="@{|/posts/{post.postId}|}" th:text="${post.id}">1</a></td>
-                <td><a href="post.html" th:href="@{|/posts/${post.postId}|}" th:text="${post.title}">첫번째 게시물</a></td>
+                <td><a href="post.html" th:href="@{|/post/${post.postId}|}" th:text="${post.postId}">1</a></td>
+                <td><a href="post.html" th:href="@{|/post/${post.postId}|}" th:text="${post.title}">첫번째 게시물</a></td>
                 <td th:text="${post.writer}">cpu500m</td>
             </tr>
             </tbody>
