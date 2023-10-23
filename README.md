@@ -41,5 +41,6 @@
 
 ### 그래서! 그것들을 적용해 나가는 방식으로 진행해볼 예정
 
-#### (1) validation과 message 적용 : [vaidation_toy](https://github.com/cpu500m/validation_toy)
+## 다음 프로젝트!
 
+#### (1) validation과 message 적용 : [vaidation_toy](https://github.com/cpu500m/validation_toy)
