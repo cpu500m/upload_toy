@@ -43,4 +43,5 @@
 
 ## 다음 프로젝트!
 
-#### (1) validation과 message 적용 : [vaidation_toy](https://github.com/cpu500m/validation_toy)
+#### (1) validation과 message 적용 : [vaidation_toy](https://github.com/cpu500m/validation_toy) 
+#### (2) login기능 추가 : [login_toy](https://github.com/cpu500m/login_toy)
