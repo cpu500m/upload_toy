@@ -19,7 +19,7 @@
 
 <img width="357" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/a983a425-d8e6-48ce-9764-816546cd3cd8">
 
-# ____ 결과 ____
+#  결과 
 
 ### 홈 화면
 <img width="441" alt="image" src="https://github.com/cpu500m/upload_toy/assets/80875680/dab35c75-e6e1-4595-afbe-29b940cd5631">
